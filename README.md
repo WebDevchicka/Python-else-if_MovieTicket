@@ -41,4 +41,4 @@ Age must be a positive integer
 
 Day must be a valid weekday name
 
-Membership must be "yes" or "no" (case-insensitiv
+Membership must be "yes" or "no" (case-insensitive)
